@@ -1,0 +1,23 @@
+{
+  "name": "JavaScript-Rock-Paper-Scissors-Game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MbuguaCaleb/JavaScript-Rock-Paper-Scissors-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MbuguaCaleb/JavaScript-Rock-Paper-Scissors-Game/issues"
+  },
+  "homepage": "https://github.com/MbuguaCaleb/JavaScript-Rock-Paper-Scissors-Game",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
